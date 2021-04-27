@@ -1,6 +1,6 @@
 # DataStructure
 
-* Stack
-* Queue
-* Minheap
-* MaxHeap
+* stack
+* queue
+* heap
+
