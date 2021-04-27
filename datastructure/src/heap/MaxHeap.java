@@ -1,8 +1,10 @@
+package heap;
+
 import java.util.*;
 
-public class MinHeap {
+public class MaxHeap {
     public static void main() {
-        PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
+        PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder());
         pq.offer(3);
         pq.offer(1);
         pq.offer(4);
