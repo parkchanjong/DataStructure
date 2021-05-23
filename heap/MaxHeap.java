@@ -3,7 +3,7 @@ package heap;
 import java.util.*;
 
 public class MaxHeap {
-    public static void main() {
+    public static void main(String[] args) {
         PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder());
         pq.offer(3);
         pq.offer(1);

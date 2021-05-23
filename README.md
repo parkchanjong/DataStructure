@@ -1,6 +1,14 @@
 # DataStructure
 
-* stack
-* queue
-* heap
+### stack
+* LIFO
+* push
+* pop
+* top
+* bottom
+
+### queue
+
+
+### heap
 

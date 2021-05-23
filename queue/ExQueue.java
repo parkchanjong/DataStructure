@@ -3,7 +3,7 @@ package queue;
 import java.util.*;
 
 public class ExQueue {
-    public static void main() {
+    public static void main(String[] args) {
         Queue<Integer> queue = new LinkedList<Integer>();
         for (int i = 1; i <= 10; i++) {
             queue.offer(i);

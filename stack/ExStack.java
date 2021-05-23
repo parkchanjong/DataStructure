@@ -1,9 +1,9 @@
 package stack;
 
-import java.util.*;
+import java.util.Stack;
 
 public class ExStack {
-    public static void main() {
+    public static void main(String[] args) {
         Stack<Integer> stack = new Stack<Integer>();
         for (int i = 1; i <= 10; i++) {
             stack.push(i);
