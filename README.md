@@ -9,7 +9,11 @@
 * bottom: 스택의 가장 아랫부분
 
 ### queue
-
+* FIFO: 선입선출
+* enqueue: 데이터를 넣는 작업
+* dequeue: 데이터를 꺼내는 작업
+* front: 데이터를 꺼내는 쪽
+* rear: 데이터를 넣는 쪽
 
 ### heap
 
