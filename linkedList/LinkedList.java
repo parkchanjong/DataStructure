@@ -3,7 +3,7 @@ package linkedList;
 import java.util.Comparator;
 
 public class LinkedList<E> {
-    class Node<E> {
+    static class Node<E> {
         private E data;
         private Node<E> next;
 
